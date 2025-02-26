@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 This is named file2
+=======
+This is to create a conflict named file2
+>>>>>>> 9a500dfc61dba4107fe2fdd5a49d5a0ad28490f9
 This is test file
 This is another line in file
